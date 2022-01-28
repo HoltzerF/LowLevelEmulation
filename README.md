@@ -15,6 +15,14 @@ cpu:
 
 assembler:
 - lasm: a basic two pass assembler for the instruction set
+- simply converts the .asm to a binary programm which can be load and executed by the cpu
+
+assembly
+- look at InstructionSet.png to see the available instructions
+- instuctions always operate on registers
+- assembler supports simple labels/branches like .NAME which can be used by the branch operations
+- and a simple comments starting with #
+- number can be decimal 3213 or hexadecimal 0x...
 
 test:
 - test.asm is a simple assembler programm written for the cpu and can be translated with lasm
