@@ -2,7 +2,7 @@
 Repository just for practice
 
 - everything still work in progress
-- instrution set designed by Gary Explains https://www.youtube.com/channel/UCRjSO-juFtngAeJGJRMdIZw
+- instruction set designed by Gary Explains https://www.youtube.com/channel/UCRjSO-juFtngAeJGJRMdIZw
 
 cpu:
 - little endian memory
